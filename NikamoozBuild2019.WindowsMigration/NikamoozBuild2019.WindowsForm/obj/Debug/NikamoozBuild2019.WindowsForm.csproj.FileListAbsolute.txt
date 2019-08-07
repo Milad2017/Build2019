@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\bin\Debug\NikamoozBuild2019.WindowsForm.exe.config
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\bin\Debug\NikamoozBuild2019.WindowsForm.exe
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\bin\Debug\NikamoozBuild2019.WindowsForm.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\bin\Debug\NikamoozBuild2019.DAL.DotNetFramework.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\bin\Debug\NikamoozBuild2019.ModelDotnetFramework.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\bin\Debug\NikamoozBuild2019.DAL.DotNetFramework.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\bin\Debug\NikamoozBuild2019.ModelDotnetFramework.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.Form1.resources
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.Properties.Resources.resources
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.csproj.CopyComplete
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.exe
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsForm\obj\Debug\NikamoozBuild2019.WindowsForm.pdb

@@ -1,0 +1,10 @@
+D:\Build2019\MyLargeSolution\HelloVenusWriter\bin\Debug\ConsoleApp1.exe.config
+D:\Build2019\MyLargeSolution\HelloVenusWriter\bin\Debug\ConsoleApp1.exe
+D:\Build2019\MyLargeSolution\HelloVenusWriter\bin\Debug\ConsoleApp1.pdb
+D:\Build2019\MyLargeSolution\HelloVenusWriter\bin\Debug\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloVenusWriter\bin\Debug\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloVenusWriter\obj\Debug\HelloVenusWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloVenusWriter\obj\Debug\HelloVenusWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloVenusWriter\obj\Debug\HelloVenusWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloVenusWriter\obj\Debug\ConsoleApp1.exe
+D:\Build2019\MyLargeSolution\HelloVenusWriter\obj\Debug\ConsoleApp1.pdb

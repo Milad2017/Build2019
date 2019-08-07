@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloWordWriter\bin\Debug\netcoreapp2.1\HelloWorldWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloWordWriter\bin\Debug\netcoreapp2.1\HelloWorldWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloWordWriter\bin\Debug\netcoreapp2.1\HelloWorldWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloWordWriter\bin\Debug\netcoreapp2.1\HelloWorldWriter.dll
+D:\Build2019\MyLargeSolution\HelloWordWriter\bin\Debug\netcoreapp2.1\HelloWorldWriter.pdb
+D:\Build2019\MyLargeSolution\HelloWordWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloWordWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloWordWriter\obj\Debug\netcoreapp2.1\HelloWorldWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloWordWriter\obj\Debug\netcoreapp2.1\HelloWorldWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloWordWriter\obj\Debug\netcoreapp2.1\HelloWorldWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloWordWriter\obj\Debug\netcoreapp2.1\HelloWorldWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloWordWriter\obj\Debug\netcoreapp2.1\HelloWorldWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloWordWriter\obj\Debug\netcoreapp2.1\HelloWorldWriter.dll
+D:\Build2019\MyLargeSolution\HelloWordWriter\obj\Debug\netcoreapp2.1\HelloWorldWriter.pdb

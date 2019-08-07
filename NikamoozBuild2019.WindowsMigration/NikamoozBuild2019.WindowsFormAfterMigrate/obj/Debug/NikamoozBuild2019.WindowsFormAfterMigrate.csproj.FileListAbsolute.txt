@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\bin\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.exe.config
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\bin\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.exe
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\bin\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\bin\Debug\NikamoozBuild2019.DAL.AfterMigrate.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\bin\Debug\NikamoozBuild2019.ModelAfterMigrate.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\bin\Debug\NikamoozBuild2019.DAL.AfterMigrate.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\bin\Debug\NikamoozBuild2019.ModelAfterMigrate.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.Form1.resources
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.Properties.Resources.resources
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.csproj.CopyComplete
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.exe
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormAfterMigrate\obj\Debug\NikamoozBuild2019.WindowsFormAfterMigrate.pdb

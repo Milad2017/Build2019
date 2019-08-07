@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloSunWriter\bin\Debug\netcoreapp2.1\HelloSunWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloSunWriter\bin\Debug\netcoreapp2.1\HelloSunWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloSunWriter\bin\Debug\netcoreapp2.1\HelloSunWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloSunWriter\bin\Debug\netcoreapp2.1\HelloSunWriter.dll
+D:\Build2019\MyLargeSolution\HelloSunWriter\bin\Debug\netcoreapp2.1\HelloSunWriter.pdb
+D:\Build2019\MyLargeSolution\HelloSunWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloSunWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloSunWriter\obj\Debug\netcoreapp2.1\HelloSunWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloSunWriter\obj\Debug\netcoreapp2.1\HelloSunWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloSunWriter\obj\Debug\netcoreapp2.1\HelloSunWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloSunWriter\obj\Debug\netcoreapp2.1\HelloSunWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloSunWriter\obj\Debug\netcoreapp2.1\HelloSunWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloSunWriter\obj\Debug\netcoreapp2.1\HelloSunWriter.dll
+D:\Build2019\MyLargeSolution\HelloSunWriter\obj\Debug\netcoreapp2.1\HelloSunWriter.pdb

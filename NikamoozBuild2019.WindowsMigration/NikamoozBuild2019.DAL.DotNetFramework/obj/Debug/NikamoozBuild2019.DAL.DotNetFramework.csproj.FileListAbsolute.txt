@@ -1,0 +1,9 @@
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\bin\Debug\NikamoozBuild2019.DAL.DotNetFramework.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\bin\Debug\NikamoozBuild2019.DAL.DotNetFramework.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\bin\Debug\NikamoozBuild2019.ModelDotnetFramework.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\bin\Debug\NikamoozBuild2019.ModelDotnetFramework.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\obj\Debug\NikamoozBuild2019.DAL.DotNetFramework.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\obj\Debug\NikamoozBuild2019.DAL.DotNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\obj\Debug\NikamoozBuild2019.DAL.DotNetFramework.csproj.CopyComplete
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\obj\Debug\NikamoozBuild2019.DAL.DotNetFramework.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.DAL.DotNetFramework\obj\Debug\NikamoozBuild2019.DAL.DotNetFramework.pdb

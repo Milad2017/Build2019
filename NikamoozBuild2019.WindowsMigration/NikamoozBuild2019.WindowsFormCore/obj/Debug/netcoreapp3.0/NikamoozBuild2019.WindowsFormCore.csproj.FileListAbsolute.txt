@@ -1,0 +1,14 @@
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\bin\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.exe
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\bin\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.deps.json
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\bin\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.runtimeconfig.json
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\bin\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.runtimeconfig.dev.json
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\bin\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\bin\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.Form1.resources
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.WindowsFormCore\obj\Debug\netcoreapp3.0\NikamoozBuild2019.WindowsFormCore.pdb

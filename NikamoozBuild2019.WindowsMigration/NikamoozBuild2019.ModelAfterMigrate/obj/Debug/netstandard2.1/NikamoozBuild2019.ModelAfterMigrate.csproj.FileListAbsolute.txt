@@ -1,0 +1,6 @@
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelAfterMigrate\bin\Debug\netstandard2.1\NikamoozBuild2019.ModelAfterMigrate.deps.json
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelAfterMigrate\bin\Debug\netstandard2.1\NikamoozBuild2019.ModelAfterMigrate.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelAfterMigrate\bin\Debug\netstandard2.1\NikamoozBuild2019.ModelAfterMigrate.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelAfterMigrate\obj\Debug\netstandard2.1\NikamoozBuild2019.ModelAfterMigrate.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelAfterMigrate\obj\Debug\netstandard2.1\NikamoozBuild2019.ModelAfterMigrate.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelAfterMigrate\obj\Debug\netstandard2.1\NikamoozBuild2019.ModelAfterMigrate.pdb

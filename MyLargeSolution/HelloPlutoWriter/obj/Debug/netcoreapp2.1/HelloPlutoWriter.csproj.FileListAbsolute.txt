@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\bin\Debug\netcoreapp2.1\HelloPlutoWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\bin\Debug\netcoreapp2.1\HelloPlutoWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\bin\Debug\netcoreapp2.1\HelloPlutoWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\bin\Debug\netcoreapp2.1\HelloPlutoWriter.dll
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\bin\Debug\netcoreapp2.1\HelloPlutoWriter.pdb
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\obj\Debug\netcoreapp2.1\HelloPlutoWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\obj\Debug\netcoreapp2.1\HelloPlutoWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\obj\Debug\netcoreapp2.1\HelloPlutoWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\obj\Debug\netcoreapp2.1\HelloPlutoWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\obj\Debug\netcoreapp2.1\HelloPlutoWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\obj\Debug\netcoreapp2.1\HelloPlutoWriter.dll
+D:\Build2019\MyLargeSolution\HelloPlutoWriter\obj\Debug\netcoreapp2.1\HelloPlutoWriter.pdb

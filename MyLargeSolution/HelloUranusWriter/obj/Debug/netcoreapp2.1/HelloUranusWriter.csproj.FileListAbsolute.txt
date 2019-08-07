@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloUranusWriter\bin\Debug\netcoreapp2.1\HelloUranusWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloUranusWriter\bin\Debug\netcoreapp2.1\HelloUranusWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloUranusWriter\bin\Debug\netcoreapp2.1\HelloUranusWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloUranusWriter\bin\Debug\netcoreapp2.1\HelloUranusWriter.dll
+D:\Build2019\MyLargeSolution\HelloUranusWriter\bin\Debug\netcoreapp2.1\HelloUranusWriter.pdb
+D:\Build2019\MyLargeSolution\HelloUranusWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloUranusWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloUranusWriter\obj\Debug\netcoreapp2.1\HelloUranusWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloUranusWriter\obj\Debug\netcoreapp2.1\HelloUranusWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloUranusWriter\obj\Debug\netcoreapp2.1\HelloUranusWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloUranusWriter\obj\Debug\netcoreapp2.1\HelloUranusWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloUranusWriter\obj\Debug\netcoreapp2.1\HelloUranusWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloUranusWriter\obj\Debug\netcoreapp2.1\HelloUranusWriter.dll
+D:\Build2019\MyLargeSolution\HelloUranusWriter\obj\Debug\netcoreapp2.1\HelloUranusWriter.pdb

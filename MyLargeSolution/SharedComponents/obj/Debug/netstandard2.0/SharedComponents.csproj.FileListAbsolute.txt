@@ -1,0 +1,9 @@
+D:\Build2019\MyLargeSolution\SharedComponents\bin\Debug\netstandard2.0\SharedComponents.deps.json
+D:\Build2019\MyLargeSolution\SharedComponents\bin\Debug\netstandard2.0\SharedComponents.dll
+D:\Build2019\MyLargeSolution\SharedComponents\bin\Debug\netstandard2.0\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\SharedComponents\obj\Debug\netstandard2.0\SharedComponents.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\SharedComponents\obj\Debug\netstandard2.0\SharedComponents.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\SharedComponents\obj\Debug\netstandard2.0\SharedComponents.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\SharedComponents\obj\Debug\netstandard2.0\SharedComponents.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\SharedComponents\obj\Debug\netstandard2.0\SharedComponents.dll
+D:\Build2019\MyLargeSolution\SharedComponents\obj\Debug\netstandard2.0\SharedComponents.pdb

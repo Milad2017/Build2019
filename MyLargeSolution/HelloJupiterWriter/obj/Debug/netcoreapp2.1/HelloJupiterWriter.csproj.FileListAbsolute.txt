@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\bin\Debug\netcoreapp2.1\HelloJupiterWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\bin\Debug\netcoreapp2.1\HelloJupiterWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\bin\Debug\netcoreapp2.1\HelloJupiterWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\bin\Debug\netcoreapp2.1\HelloJupiterWriter.dll
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\bin\Debug\netcoreapp2.1\HelloJupiterWriter.pdb
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\obj\Debug\netcoreapp2.1\HelloJupiterWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\obj\Debug\netcoreapp2.1\HelloJupiterWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\obj\Debug\netcoreapp2.1\HelloJupiterWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\obj\Debug\netcoreapp2.1\HelloJupiterWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\obj\Debug\netcoreapp2.1\HelloJupiterWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\obj\Debug\netcoreapp2.1\HelloJupiterWriter.dll
+D:\Build2019\MyLargeSolution\HelloJupiterWriter\obj\Debug\netcoreapp2.1\HelloJupiterWriter.pdb

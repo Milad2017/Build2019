@@ -1,0 +1,6 @@
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelDotnetFramework\bin\Debug\NikamoozBuild2019.ModelDotnetFramework.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelDotnetFramework\bin\Debug\NikamoozBuild2019.ModelDotnetFramework.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelDotnetFramework\obj\Debug\NikamoozBuild2019.ModelDotnetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelDotnetFramework\obj\Debug\NikamoozBuild2019.ModelDotnetFramework.dll
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelDotnetFramework\obj\Debug\NikamoozBuild2019.ModelDotnetFramework.pdb
+C:\Users\Alireza\source\repos\NikamoozBuild2019\NikamoozBuild2019.ModelDotnetFramework\obj\Debug\NikamoozBuild2019.ModelDotnetFramework.csprojAssemblyReference.cache

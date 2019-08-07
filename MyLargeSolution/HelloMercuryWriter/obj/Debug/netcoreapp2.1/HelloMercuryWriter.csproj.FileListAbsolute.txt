@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\bin\Debug\netcoreapp2.1\HelloMercuryWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\bin\Debug\netcoreapp2.1\HelloMercuryWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\bin\Debug\netcoreapp2.1\HelloMercuryWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\bin\Debug\netcoreapp2.1\HelloMercuryWriter.dll
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\bin\Debug\netcoreapp2.1\HelloMercuryWriter.pdb
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\obj\Debug\netcoreapp2.1\HelloMercuryWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\obj\Debug\netcoreapp2.1\HelloMercuryWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\obj\Debug\netcoreapp2.1\HelloMercuryWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\obj\Debug\netcoreapp2.1\HelloMercuryWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\obj\Debug\netcoreapp2.1\HelloMercuryWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\obj\Debug\netcoreapp2.1\HelloMercuryWriter.dll
+D:\Build2019\MyLargeSolution\HelloMercuryWriter\obj\Debug\netcoreapp2.1\HelloMercuryWriter.pdb

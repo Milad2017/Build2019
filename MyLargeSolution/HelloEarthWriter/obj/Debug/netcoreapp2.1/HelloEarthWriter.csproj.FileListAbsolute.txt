@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloEarthWriter\bin\Debug\netcoreapp2.1\HelloEarthWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloEarthWriter\bin\Debug\netcoreapp2.1\HelloEarthWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloEarthWriter\bin\Debug\netcoreapp2.1\HelloEarthWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloEarthWriter\bin\Debug\netcoreapp2.1\HelloEarthWriter.dll
+D:\Build2019\MyLargeSolution\HelloEarthWriter\bin\Debug\netcoreapp2.1\HelloEarthWriter.pdb
+D:\Build2019\MyLargeSolution\HelloEarthWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloEarthWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloEarthWriter\obj\Debug\netcoreapp2.1\HelloEarthWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloEarthWriter\obj\Debug\netcoreapp2.1\HelloEarthWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloEarthWriter\obj\Debug\netcoreapp2.1\HelloEarthWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloEarthWriter\obj\Debug\netcoreapp2.1\HelloEarthWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloEarthWriter\obj\Debug\netcoreapp2.1\HelloEarthWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloEarthWriter\obj\Debug\netcoreapp2.1\HelloEarthWriter.dll
+D:\Build2019\MyLargeSolution\HelloEarthWriter\obj\Debug\netcoreapp2.1\HelloEarthWriter.pdb

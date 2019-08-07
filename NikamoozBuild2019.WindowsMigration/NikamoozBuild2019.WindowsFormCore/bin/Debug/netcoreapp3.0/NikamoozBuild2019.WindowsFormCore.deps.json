@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "NikamoozBuild2019.WindowsFormCore/1.0.0": {
+        "runtime": {
+          "NikamoozBuild2019.WindowsFormCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NikamoozBuild2019.WindowsFormCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Build2019\MyLargeSolution\HelloMarsWriter\bin\Debug\netcoreapp2.1\HelloMarsWriter.deps.json
+D:\Build2019\MyLargeSolution\HelloMarsWriter\bin\Debug\netcoreapp2.1\HelloMarsWriter.runtimeconfig.json
+D:\Build2019\MyLargeSolution\HelloMarsWriter\bin\Debug\netcoreapp2.1\HelloMarsWriter.runtimeconfig.dev.json
+D:\Build2019\MyLargeSolution\HelloMarsWriter\bin\Debug\netcoreapp2.1\HelloMarsWriter.dll
+D:\Build2019\MyLargeSolution\HelloMarsWriter\bin\Debug\netcoreapp2.1\HelloMarsWriter.pdb
+D:\Build2019\MyLargeSolution\HelloMarsWriter\bin\Debug\netcoreapp2.1\SharedComponents.dll
+D:\Build2019\MyLargeSolution\HelloMarsWriter\bin\Debug\netcoreapp2.1\SharedComponents.pdb
+D:\Build2019\MyLargeSolution\HelloMarsWriter\obj\Debug\netcoreapp2.1\HelloMarsWriter.csprojAssemblyReference.cache
+D:\Build2019\MyLargeSolution\HelloMarsWriter\obj\Debug\netcoreapp2.1\HelloMarsWriter.csproj.CoreCompileInputs.cache
+D:\Build2019\MyLargeSolution\HelloMarsWriter\obj\Debug\netcoreapp2.1\HelloMarsWriter.AssemblyInfoInputs.cache
+D:\Build2019\MyLargeSolution\HelloMarsWriter\obj\Debug\netcoreapp2.1\HelloMarsWriter.AssemblyInfo.cs
+D:\Build2019\MyLargeSolution\HelloMarsWriter\obj\Debug\netcoreapp2.1\HelloMarsWriter.csproj.CopyComplete
+D:\Build2019\MyLargeSolution\HelloMarsWriter\obj\Debug\netcoreapp2.1\HelloMarsWriter.dll
+D:\Build2019\MyLargeSolution\HelloMarsWriter\obj\Debug\netcoreapp2.1\HelloMarsWriter.pdb
