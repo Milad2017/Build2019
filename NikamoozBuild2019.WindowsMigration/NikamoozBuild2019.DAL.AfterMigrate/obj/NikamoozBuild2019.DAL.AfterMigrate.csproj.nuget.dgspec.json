@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj": {}
+    "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj": {
+    "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj",
+        "projectUniqueName": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj",
         "projectName": "NikamoozBuild2019.DAL.AfterMigrate",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj",
+        "projectPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.DAL.AfterMigrate\\obj\\",
+        "outputPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.DAL.AfterMigrate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj"
+              "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj": {
+                "projectPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj": {
+    "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj",
+        "projectUniqueName": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj",
         "projectName": "NikamoozBuild2019.ModelAfterMigrate",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj",
+        "projectPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.ModelAfterMigrate\\obj\\",
+        "outputPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj": {}
+    "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj": {
+    "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj",
+        "projectUniqueName": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj",
         "projectName": "NikamoozBuild2019.WindowsFormCore",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj",
+        "projectPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.WindowsFormCore\\NikamoozBuild2019.WindowsFormCore.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019\\NikamoozBuild2019.WindowsFormCore\\obj\\",
+        "outputPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.WindowsFormCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
