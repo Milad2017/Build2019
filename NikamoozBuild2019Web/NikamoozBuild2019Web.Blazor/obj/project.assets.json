@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "NikamoozBuild2019Web.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NikamoozBuild2019Web.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NikamoozBuild2019Web.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NikamoozBuild2019Web.Models/1.0.0": {
+      "type": "project",
+      "path": "../NikamoozBuild2019Web.Models/NikamoozBuild2019Web.Models.csproj",
+      "msbuildProject": "../NikamoozBuild2019Web.Models/NikamoozBuild2019Web.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "NikamoozBuild2019Web.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alireza\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019Web\\NikamoozBuild2019Web.Blazor\\NikamoozBuild2019Web.Blazor.csproj",
+      "projectName": "NikamoozBuild2019Web.Blazor",
+      "projectPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019Web\\NikamoozBuild2019Web.Blazor\\NikamoozBuild2019Web.Blazor.csproj",
+      "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019Web\\NikamoozBuild2019Web.Blazor\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019Web\\NikamoozBuild2019Web.Models\\NikamoozBuild2019Web.Models.csproj": {
+              "projectPath": "C:\\Users\\Alireza\\source\\repos\\NikamoozBuild2019Web\\NikamoozBuild2019Web.Models\\NikamoozBuild2019Web.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        }
+      }
+    }
+  }
+}

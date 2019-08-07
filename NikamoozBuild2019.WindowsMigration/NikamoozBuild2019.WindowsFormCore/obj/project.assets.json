@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "NikamoozBuild2019.DAL.AfterMigrate/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "NikamoozBuild2019.ModelAfterMigrate": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NikamoozBuild2019.DAL.AfterMigrate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NikamoozBuild2019.DAL.AfterMigrate.dll": {}
+        }
+      },
+      "NikamoozBuild2019.ModelAfterMigrate/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NikamoozBuild2019.ModelAfterMigrate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NikamoozBuild2019.ModelAfterMigrate.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NikamoozBuild2019.DAL.AfterMigrate/1.0.0": {
+      "type": "project",
+      "path": "../NikamoozBuild2019.DAL.AfterMigrate/NikamoozBuild2019.DAL.AfterMigrate.csproj",
+      "msbuildProject": "../NikamoozBuild2019.DAL.AfterMigrate/NikamoozBuild2019.DAL.AfterMigrate.csproj"
+    },
+    "NikamoozBuild2019.ModelAfterMigrate/1.0.0": {
+      "type": "project",
+      "path": "../NikamoozBuild2019.ModelAfterMigrate/NikamoozBuild2019.ModelAfterMigrate.csproj",
+      "msbuildProject": "../NikamoozBuild2019.ModelAfterMigrate/NikamoozBuild2019.ModelAfterMigrate.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "NikamoozBuild2019.DAL.AfterMigrate >= 1.0.0",
+      "NikamoozBuild2019.ModelAfterMigrate >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Alireza\\.nuget\\packages\\": {},
@@ -36,7 +74,14 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj": {
+              "projectPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.DAL.AfterMigrate\\NikamoozBuild2019.DAL.AfterMigrate.csproj"
+            },
+            "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj": {
+              "projectPath": "D:\\Build2019\\NikamoozBuild2019.WindowsMigration\\NikamoozBuild2019.ModelAfterMigrate\\NikamoozBuild2019.ModelAfterMigrate.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

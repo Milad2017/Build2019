@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v3.0": {
       "NikamoozBuild2019.WindowsFormCore/1.0.0": {
+        "dependencies": {
+          "NikamoozBuild2019.DAL.AfterMigrate": "1.0.0",
+          "NikamoozBuild2019.ModelAfterMigrate": "1.0.0"
+        },
         "runtime": {
           "NikamoozBuild2019.WindowsFormCore.dll": {}
+        }
+      },
+      "NikamoozBuild2019.DAL.AfterMigrate/1.0.0": {
+        "dependencies": {
+          "NikamoozBuild2019.ModelAfterMigrate": "1.0.0"
+        },
+        "runtime": {
+          "NikamoozBuild2019.DAL.AfterMigrate.dll": {}
+        }
+      },
+      "NikamoozBuild2019.ModelAfterMigrate/1.0.0": {
+        "runtime": {
+          "NikamoozBuild2019.ModelAfterMigrate.dll": {}
         }
       }
     }
   },
   "libraries": {
     "NikamoozBuild2019.WindowsFormCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NikamoozBuild2019.DAL.AfterMigrate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NikamoozBuild2019.ModelAfterMigrate/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
